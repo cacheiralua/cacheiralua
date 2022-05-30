@@ -21,4 +21,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cacheiralua&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="cacheiralua" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cacheiralua&show_icons=true&theme=tokyonight&locale=en" alt="cacheiralua" /></p>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=cacheiralua&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=cacheiralua&theme=tokyonight&hide_border=true" alt="cacheiralua" /></p>
