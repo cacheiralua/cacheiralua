@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **joao.cacheira@hotmail.com**
 
-- ⚡ Fun fact **I'm liking a girl**
+- ⚡ Fun fact **I'm lost**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
