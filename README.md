@@ -9,6 +9,8 @@
 
 - ⚡ Fun fact **I'm lost**
 
+- 👨‍💻 Currently working at Deloitte and taking a degree.
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/notcacheira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="notcacheira" height="30" width="40" /></a>
