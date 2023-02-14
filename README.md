@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm cacheiralua, a young developer studying and working  👨‍💻 studying software development since 2018 🚀</div>  
+### <div align="center">I'm cacheiralua, a young developer studying and working 👨‍💻 studying software development since 2018 🚀</div>  
   
 
 - 🔭 I’m currently working on [Coffee Shop Coding Website](https://github.com/cacheiralua/coshoco)  
