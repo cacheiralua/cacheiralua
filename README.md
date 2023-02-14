@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm cacheiralua</h1>
+<h1 align="center">Hello 👋, I'm João Caceheira aka cacheiralua</h1>
 <h3 align="center">I wish you luck trying to understant more about me</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cacheiralua&label=Profile%20views&color=b363ca&style=flat" alt="cacheiralua" /> </p>
