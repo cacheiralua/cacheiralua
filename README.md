@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on [Coffee Shop Coding Website](https://github.com/cacheiralua/coshoco)  
   
 
-- 🌱 I’m currently learning React, Git and Docker  
+- 🌱 I’m currently learning React, NodeJS and Python  
   
 
 - ❓ Ask me about anything related to coffee, I will do my best to give you an awesome answer  
