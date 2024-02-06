@@ -1,12 +1,15 @@
 Hi 👋 My name is João Cacheira
 ==============================
+```js
+console.log('i am also known as cacheiralua')
+```
 
 Software Engineer
 -----------------
 
 I've been learning to code since 2019. I started with C#, but have really fond a passion for web development, but more on the backend. Therefore I started enjoying coffee a bit to much xD Currently I'm in college taking a Software Engineer degree at the same time I'm working in Deloitte.
 
-*   🌍  I'm based in Setúbal
+*   🌍  I'm based in Portugal, Lisbon Metropolitan Area 
 *   ✉️  You can contact me at [cacheiralua@proton.me](mailto:cacheiralua@proton.me)
 *   🚀  I'm currently working on [Coffee Shop Coding Website](http://cacheiralua@proton.me)
 *   🧠  I'm learning React, JS/TS and NodeJS
