@@ -11,6 +11,8 @@ I've been learning to code since 2019. I started with C#, but have really fond a
 *   🚀  I'm currently working on [Coffee Shop Coding Website](http://cacheiralua@proton.me)
 *   🧠  I'm learning React, JS/TS and NodeJS
 *   ⚡  After a good day of coding you can find me at the gym, or at a bar (if it's friday) :)
+
+<br/>
 <a href="https://www.github.com/cacheiralua" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/github/followers/cacheiralua?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
@@ -30,7 +32,11 @@ I've been learning to code since 2019. I started with C#, but have really fond a
 
 <a href="http://www.github.com/cacheiralua"><img src="https://github-readme-stats.vercel.app/api?username=cacheiralua&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="cacheiralua's GitHub stats" /></a>
 
-<a href="https://github.com/cacheiralua" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cacheiralua&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/cacheiralua" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cacheiralua&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a> 
+
+### What am I listening
+
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=kv5bes9uwjwxxqj3ea4wltp1c&cover_image=true&theme=default&show_offline=true&background_color=121212&bar_color=53b14f&bar_color_cover=true" /></div>  
 
 ### Support Me
 
@@ -39,11 +45,6 @@ I've been learning to code since 2019. I started with C#, but have really fond a
 <li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/cacheiralua"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
 </ul>
 
-<br/>  
-
-
-### What am I listening
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=kv5bes9uwjwxxqj3ea4wltp1c&cover_image=true&theme=default&show_offline=true&background_color=121212&bar_color=53b14f&bar_color_cover=true" /></div>  
+<br/> 
 
 <br/>  
